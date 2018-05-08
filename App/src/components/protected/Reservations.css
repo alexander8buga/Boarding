@@ -1,0 +1,23 @@
+.subNav {
+    width:100%;
+    /* background-color: #484848; */
+    background-color: white;
+    padding-left: 24pt;
+    padding-right: 24pt;
+
+
+}
+.nav-item{
+    color: #484848;
+}
+.listingsCol{
+    width:50%;
+}
+.bookingsCol{
+    width:25%;
+    padding: 15px;
+
+}
+.j-style{
+    background-color: white;
+}

@@ -1,0 +1,62 @@
+body{
+    background-color: #e9ecef;
+}
+
+.register-page .jumbotron{
+    background-color: transparent;
+}
+
+.register-page form{
+    background: #fff;
+    margin: 0 auto;
+    padding: 30px 20px 40px 20px;
+    border-radius: 6px;
+    border:1px solid #c3c3c3;
+
+}
+
+.register-page form h3{
+    text-align: center;
+}
+
+.register-page form h5{
+    text-align: center;
+    margin:0 auto 10px auto;
+    display: block;
+    color: #868e96;
+}
+
+.register-page form label{
+    text-align: center;
+}
+
+.register-page .radio{
+    margin-bottom: 10px;
+}
+
+.register-page .form-group{
+    margin-bottom: 30px;
+}
+
+.register-page form label input{
+    margin-right:5px;
+}
+
+.register-page .centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.register-page #signup{
+    cursor: pointer;
+}
+
+.register-page #signup:hover{
+    background: #aa030b;
+    -webkit-transition: background-color 2s ease-out;
+    -moz-transition: background-color 2s ease-out;
+    -o-transition: background-color 2s ease-out;
+    transition: background-color 2s ease-out;
+}
+
+
